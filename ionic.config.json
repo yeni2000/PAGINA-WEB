@@ -1,0 +1,7 @@
+{
+  "name": "ejemplotabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
